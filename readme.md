@@ -1,3 +1,12 @@
+## Modules
+### register
+    将类交给spring管理的四种方式
+### lifecycle
+    spring bean的生命周期
+### autowired
+    autowired和resource的区别,待完善
+
+
 ## 常见错误
 ### issue 1
 fatal: unable to access 'https://github.com/***/***.git/': OpenSSL SSL_read: Connection was reset, errno 10054
